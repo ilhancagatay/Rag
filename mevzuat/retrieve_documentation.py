@@ -3,8 +3,8 @@ from promptflow import tool
 from azure.search.documents import SearchClient
 from azure.search.documents.models import (
     VectorizedQuery,
-    QueryType,
-    QueryCaptionType,
+    #QueryType,
+    #QueryCaptionType,
     QueryAnswerType,
 )
 from azure.core.credentials import AzureKeyCredential
@@ -32,19 +32,18 @@ def retrieve_documentation(
     results = search_client.search(
         search_text=question,
         vector_queries=[vector_query],
-        query_type=QueryType.SEMANTIC,
-        semantic_configuration_name="default",
-        query_caption=QueryCaptionType.EXTRACTIVE,
-        query_answer=QueryAnswerType.EXTRACTIVE,
+        #query_type=QueryType.SEMANTIC,
+        #query_type=QueryType.SIMPLE,
+        #semantic_configuration_name="default",
+        #query_caption=QueryCaptionType.EXTRACTIVE,
+        #query_answer=QueryAnswerType.EXTRACTIVE,
         top=3,
     )
 
     docs = [
         {
             "id": doc["id"],
-            "title": doc["title"],
             "content": doc["content"],
-            "url": doc["url"],
         }
         for doc in results
     ]
