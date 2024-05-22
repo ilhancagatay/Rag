@@ -1,10 +1,10 @@
-2024-04-04 06:20:13 +0000   10596 execution.flow     INFO     Start executing nodes in thread pool mode.
-2024-04-04 06:20:13 +0000   10596 execution.flow     INFO     Start to run 4 nodes with concurrency level 16.
-2024-04-04 06:20:13 +0000   10596 execution.flow     INFO     Executing node question_embedding. node run id: db49a6db-a3c7-471d-a637-94c8888c9236_question_embedding_0
-2024-04-04 06:20:14 +0000   10596 execution.flow     INFO     Node question_embedding completes.
-2024-04-04 06:20:14 +0000   10596 execution.flow     INFO     Executing node retrieve_documentation. node run id: db49a6db-a3c7-471d-a637-94c8888c9236_retrieve_documentation_0
-2024-04-04 06:20:14 +0000   10596 execution.flow     INFO     Node retrieve_documentation completes.
-2024-04-04 06:20:14 +0000   10596 execution.flow     INFO     Executing node customer_prompt. node run id: db49a6db-a3c7-471d-a637-94c8888c9236_customer_prompt_0
-2024-04-04 06:20:14 +0000   10596 execution.flow     INFO     Node customer_prompt completes.
-2024-04-04 06:20:14 +0000   10596 execution.flow     INFO     Executing node llm_response. node run id: db49a6db-a3c7-471d-a637-94c8888c9236_llm_response_0
-2024-04-04 06:20:23 +0000   10596 execution.flow     INFO     Node llm_response completes.
+2024-05-22 08:03:01 +0000   23172 execution.flow     INFO     Start executing nodes in thread pool mode.
+2024-05-22 08:03:01 +0000   23172 execution.flow     INFO     Start to run 4 nodes with concurrency level 16.
+2024-05-22 08:03:01 +0000   23172 execution.flow     INFO     Executing node question_embedding. node run id: f73f53e0-ccc3-4a5f-ab56-b6647abe4295_question_embedding_0
+2024-05-22 08:03:02 +0000   23172 execution.flow     INFO     Node question_embedding completes.
+2024-05-22 08:03:02 +0000   23172 execution.flow     INFO     Executing node retrieve_documentation. node run id: f73f53e0-ccc3-4a5f-ab56-b6647abe4295_retrieve_documentation_0
+2024-05-22 08:03:03 +0000   23172 execution.flow     INFO     Node retrieve_documentation completes.
+2024-05-22 08:03:03 +0000   23172 execution.flow     INFO     Executing node customer_prompt. node run id: f73f53e0-ccc3-4a5f-ab56-b6647abe4295_customer_prompt_0
+2024-05-22 08:03:03 +0000   23172 execution.flow     INFO     Node customer_prompt completes.
+2024-05-22 08:03:03 +0000   23172 execution.flow     INFO     Executing node llm_response. node run id: f73f53e0-ccc3-4a5f-ab56-b6647abe4295_llm_response_0
+2024-05-22 08:03:32 +0000   23172 execution.flow     INFO     Node llm_response completes.

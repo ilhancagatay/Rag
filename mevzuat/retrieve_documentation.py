@@ -43,6 +43,7 @@ def retrieve_documentation(
     docs = [
         {
             "id": doc["id"],
+            "filepath": doc["filepath"],
             "content": doc["content"],
         }
         for doc in results
