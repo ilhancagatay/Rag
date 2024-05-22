@@ -45,7 +45,7 @@ nodes:
     type: code
     path: llm_response.jinja2
   inputs:
-    deployment_name: gpt-4-32k
+    deployment_name: gpt-35-turbo
     prompt_text: ${customer_prompt.output}
     question: ${inputs.question}
   connection: aoai-connection

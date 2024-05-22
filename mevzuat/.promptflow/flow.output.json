@@ -1,20 +1,4 @@
 {
-  "answer": "Kimlik tespiti, daha önce usulüne uygun olarak kimliği tespit edilen kişilerin sürekli iş ilişkisindeki yüz yüze yapılan işlemler için geçerlidir. Bu işlemler, kişinin kimlik bilgilerinin karşılaştırılması ve ilgili evraka işlemi yaptıran kişinin ad ve soyadının yazılması ve imza örneği alınması ile gerçekleştirilir. Ancak, bu işlemin kimlik tespitini gerektiren bir işlem olması gerekmektedir, aksi takdirde kimlik tespit yükümlülüğü bulunmamaktadır. Kimlik tespiti gerektiren durumlarda, kişinin vatandaşı olduğu ülkenin yetkili kurumları tarafından verilmiş kimlik doğrulayan belgeler talep edilir. Kimlik tespiti gereken durumlarda, kurumsal tablet üzerine imza atılması da geçerlidir.",
-  "context": [
-    {
-      "id": "72",
-      "filepath": "masak-sss.pdf",
-      "content": "38- Müteakip işlemlerde kimlik tespiti nasıl yapılacaktır? \nDaha önce usulüne uygun olarak kimliği tespit edilenlerin sürekli iş ilişkisi kapsamındaki yüz yüze \nyapılan müteakip işlemlerinde kimlik tespiti, kimliğe ilişkin bilgilerin yükümlüde bulunan bilgilerle \nkarşılaştırılmasını müteakip ilgili evraka işlemi yaptıran gerçek kişinin ad ve soyadının yazılması ve imza \nörneğinin alınması suretiyle yapılır. Söz konusu müteakip işlemin kimlik tespitini gerektiren bir işlem \nolması gerekmektedir. Aksi halde kimlik tespit yükümlülüğü bulunmamaktadır."
-    },
-    {
-      "id": "165",
-      "filepath": "masak-sss.pdf",
-      "content": "kimlik tespitinde alınması gereken teyide esas bilgileri taşımak kaydıyla kimlik tespiti bakımından \ngeçerli belge olarak kullanılabilecektir. Kimlik bilgilerin tamamının söz konusu belgede yer almaması \ndurumunda ise müşteriden, vatandaşı bulunduğu ülkenin yetkili kurumları tarafından verilmiş kimliği \ntevsik edici başka bir belge talep edilerek kimlik tespitinin yapılması gereklidir."
-    },
-    {
-      "id": "367",
-      "filepath": "masak-sss.pdf",
-      "content": "167- Yüz yüze gerçekleştirilen müteakip işlemlerde kimlik tespitinin bir gereği olan imza örneğinin \nalınmasında, ıslak imza yerine kurumsal tablet üzerine imza atılması mümkün müdür? \n5549 sayılı Kanunun “kimlik tespiti” başlıklı üçüncü maddesinin birinci fıkrasında; ”Yükümlüler, \nkendileri nezdinde yapılan veya aracılık ettikleri işlemlerde işlem yapılmadan önce, işlem yapanlar ile \n Sınıflandırma: Genel / Kişisel Veri İçermez\nnam veya hesaplarına işlem yapılanların kimliklerini tespit etmek zorundadır.”. İkinci fıkrasında; ”Kimlik \ntespitine esas belge nevilerini belirlemeye Bakanlık yetkili olup, kimlik tespitini gerektiren işlem türleri, \nbunların parasal sınırları ve konuyla ilgili diğer usul ve esaslar yönetmelikle belirlenir.”. Tedbirler \nYönetmeliğinin ”Müşterinin Tanınmasına İlişkin Esaslar” bölümündeki “Kimlik tespiti” başlıklı beşinci \nmaddesinin birinci fıkrasının (e) bendinde ”Daha önce elde edilen müşteri kimlik bilgilerinin yeterliliği"
-    }
-  ]
+  "answer": "Gerçek kişilerin kimlik tespiti genellikle resmi kimlik belgeleri kullanılarak yapılır. Bu belgeler arasında nüfus cüzdanı, pasaport ve sürücü belgesi bulunur. Bu belgeler üzerinde kişinin adı, soyadı, doğum tarihi, cinsiyeti ve resmi bulunur. Bu bilgilerin kontrolüyle kimlik tespiti yapılır. Ayrıca bazı durumlarda parmak izi veya biyometrik özellikler de kullanılarak kimlik tespiti sağlanabilir.",
+  "context": []
 }
